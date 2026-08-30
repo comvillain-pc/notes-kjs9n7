@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://comvillain-pc.github.io/notes-kjs9n7/sitemap.xml
